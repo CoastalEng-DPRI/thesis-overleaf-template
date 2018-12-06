@@ -4,6 +4,7 @@
 良テンプレートである  
 [thesis-overleaf-template](https://github.com/sasn0/thesis-overleaf-template)  
 をForkして作成されています。使用法はFork元と同様ですのでそちらをご参照ください。  
+Overleafでプロジェクト作成後は，「メニュー」->「コンパイラ」の欄を pdfLaTeX から LaTeX に変更するのを忘れないように。  
 Overleafを使用しなくとも，ローカル環境にcloneをしてLaTeXを使用すれば論文のPDFを作成できます。  
 
 ## License
